@@ -1,0 +1,12 @@
+#info, #inputs {
+  display: none;
+}
+
+.container {
+  width: 50%;
+  margin: auto;
+}
+
+section {
+  margin-top: 50px;
+}
